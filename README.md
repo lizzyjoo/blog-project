@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Blog Project
 
 ## Structure
@@ -13,3 +15,11 @@
 ```bash
    npm run install:all
 ```
+
+=======
+
+# blog-project
+
+Blog app consisting of blog-reader, blog-api, and blog-admin
+
+> > > > > > > 1ae95cfaf078444b63874ef75b0f7349d1060841
