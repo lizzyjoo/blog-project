@@ -33,3 +33,25 @@ git clone https://github.com/lizzyjoo/blog-api
 git clone https://github.com/lizzyjoo/blog-reader
 git clone https://github.com/lizzyjoo/blog-admin
 ```
+
+Your directory structure should looklike this:
+
+blog-project/
+
+- blog-api/
+- blog-reader/
+- blog-admin/
+
+Install dependencies for all apps:
+
+```bash
+npm run install:all
+```
+
+To run everything concurrently:
+
+```bash
+npm run dev
+```
+
+This will start the API server, Blog reader frontend, and the Admin dashboard.
