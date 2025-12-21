@@ -36,11 +36,11 @@ git clone https://github.com/lizzyjoo/blog-admin
 
 Your directory structure should looklike this:
 
-blog-project/
-
-- blog-api/
-- blog-reader/
-- blog-admin/
+parent-directory/
+├── blog-project/
+├── blog-api/
+├── blog-reader/
+└── blog-admin/
 
 Install dependencies for all apps:
 
