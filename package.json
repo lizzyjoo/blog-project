@@ -1,0 +1,22 @@
+{
+  "name": "blog-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --prefix blog-api && npm install --prefix blog-reader && npm install --prefix blog-admin",
+    "dev:api": "npm run dev --prefix blog-api",
+    "dev:frontend": "npm run dev --prefix blog-reader",
+    "dev:admin": "npm run dev --prefix blog-admin",
+    "dev": "concurrently \"npm run dev:api\" \"npm run dev:frontend\" \"npm run dev:admin\" --names \"API,Reader,Admin\" --prefix-colors \"blue,green,yellow\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "baseline-browser-mapping": "^2.9.11"
+  }
+}

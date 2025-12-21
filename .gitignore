@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+
+# Ignore sub-projects (they are separate repos)
+blog-api/
+blog-reader/
+blog-admin/
+
+npm-debug.log
+.env
