@@ -1,6 +1,6 @@
 # URTEXT Blog Platform
 
-A full-stack blogging platform built for readers and writers who appreciate clean, distraction-free content. The name _Urtext_ comes from music publishing: "original, unedited version of a score."
+A full-stack blogging platform built for readers and writers who appreciate clean, distraction-free content. The name _Urtext_ comes from music publishing: "original, unedited version of a score." The app is designed for any classical music enthusiasts who wish to be able to write music posts seamlessly (Music notation support to come!).
 
 **Live Demo:** [blog-reader-lyart.vercel.app](https://blog-reader-lyart.vercel.app)
 
