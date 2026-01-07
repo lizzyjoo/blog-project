@@ -4,7 +4,7 @@ A full-stack blogging platform built for readers and writers who appreciate clea
 
 **Live Demo:** [blog-reader-lyart.vercel.app](https://blog-reader-lyart.vercel.app)
 
-![Alt text]("blog-reader/public/preview-screenshot.png")
+![Alt text]("./public/preview-screenshot.png")
 
 ## Features
 
